@@ -4,7 +4,7 @@
 Jogo de xadrez para jogar contra o computador feito para a aula sobre Gerência de Projetos.
 
 ## Instruções para rodar
-Para rodar o projeto, é necessário poucos passos
+Para rodar o projeto, é necessário poucos passos 
 - Clone o projeto e abra-o com o VSCode
 - Com o VSCode aberto, clique em "GO Live" no canto inferior direito
 - Será aberto uma página web e nela direcione-se para xadrez.html
